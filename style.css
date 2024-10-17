@@ -215,7 +215,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: orange;
+	background-color: white;
 	opacity: 0.7;
 	z-index: -1;
 }
@@ -230,7 +230,7 @@ p {
 	width: fit-content;
 	font-size: 3rem;
 	position: relative;
-	color: transparent;
+	color: lightblue;
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
