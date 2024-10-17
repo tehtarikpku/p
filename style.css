@@ -12,7 +12,7 @@ html {
 a {
 	text-decoration: none;
         font-size: 20px;
-        color: orange;
+        color: lightblue;
 }
 .container {
 	min-height: 100vh;
@@ -39,7 +39,7 @@ p {
 	font-weight: 300;
 	color: black;
 	margin-bottom: 10px;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 0.2rem;
 	text-align: center;
 }
@@ -66,11 +66,11 @@ p {
 }
 .brand h1 {
 	font-size: 3rem;
-	text-transform: uppercase;
-	color: orange;
+	text-transform: none;
+	color: lightblue;
 }
 .brand h1 span {
-	color: crimson;
+	color: grey;
 }
 
 /* Header section */
