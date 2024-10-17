@@ -202,7 +202,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/atta.png);
+	background-image: url(./img/ttp.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -215,7 +215,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: black;
+	background-color: orange;
 	opacity: 0.7;
 	z-index: -1;
 }
