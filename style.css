@@ -50,7 +50,7 @@ p {
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
-	color: white;
+	color: green;
 	background-color: transparent;
 	border: 2px solid crimson;
 	font-size: 2rem;
@@ -61,13 +61,13 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
+	color: green;
 	background-color: crimson;
 }
 .brand h1 {
 	font-size: 3rem;
 	text-transform: uppercase;
-	color: white;
+	color: green;
 }
 .brand h1 span {
 	color: crimson;
@@ -172,7 +172,7 @@ p {
 	height: 2px;
 	width: 30px;
 	position: relative;
-	background-color: white;
+	background-color: blue;
 	z-index: -1;
 }
 #header .hamburger .bar::after,
@@ -182,7 +182,7 @@ p {
 	height: 100%;
 	width: 100%;
 	left: 0;
-	background-color: white;
+	background-color: blue;
 	transition: 0.3s ease;
 	transition-property: top, bottom;
 }
@@ -230,7 +230,7 @@ p {
 	width: fit-content;
 	font-size: 3rem;
 	position: relative;
-	color: lightblue;
+	color: blue;
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
