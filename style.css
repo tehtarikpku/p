@@ -51,7 +51,7 @@ p {
 	display: inline-block;
 	padding: 10px 30px;
 	color: orange;
-	background-color: lightgreen;
+	background-color: transparent;
 	border: 2px solid crimson;
 	font-size: 2rem;
 	text-transform: uppercase;
@@ -309,7 +309,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-	opacity: 0.9;
+	opacity: 0.5;
 	z-index: -1;
 }
 #services .service-bottom .icon {
