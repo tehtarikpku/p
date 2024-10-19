@@ -531,7 +531,7 @@ p {
 	filter: grayscale(0);
 }
 #footer p {
-	color: white;
+	color: black;
 	font-size: 1.3rem;
 }
 /* End Footer */
