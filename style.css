@@ -44,7 +44,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: crimson;
+	color: black;
 }
 
 .cta {
@@ -62,7 +62,7 @@ p {
 }
 .cta:hover {
 	color: lightblue;
-	background-color: crimson;
+	background-color: green;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -122,7 +122,7 @@ p {
 	letter-spacing: 0.2rem;
 	text-decoration: none;
 	color: lightblue;
-	text-transform: uppercase;
+	text-transform: ;
 	padding: 20px;
 	display: block;
 }
@@ -143,7 +143,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: crimson;
+	color: green;
 }
 #header .hamburger {
 	height: 60px;
@@ -217,7 +217,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-color: brown;
-	opacity: 0.3;
+	opacity: 0.1;
 	z-index: -1;
 }
 #hero .hero {
