@@ -231,7 +231,7 @@ p {
 	width: fit-content;
 	font-size: 3rem;
 	position: relative;
-	color: orange;
+	color: black;
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
@@ -324,7 +324,7 @@ p {
 	text-transform: uppercase;
 }
 #services .service-item p {
-	color: white;
+	color: purple;
 	text-align: left;
 }
 /* End Services Section */
