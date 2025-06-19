@@ -51,7 +51,7 @@ p {
 	display: inline-block;
 	padding: 10px 30px;
 	color: orange;
-	/*background-color: transparent;*/
+	background-color: transparent;
 	border: 2px solid crimson;
 	font-size: 2rem;
 	text-transform: uppercase;
@@ -84,7 +84,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: orange;
+	background-color: lightgreen;
 	background-color: rgba(31, 30, 30, 0.24);
 	transition: 0.3s ease background-color;
 }
