@@ -269,6 +269,7 @@ p {
 
 /* Services Section */
 #services .services {
+	background-color: teal;
 	flex-direction: column;
 	text-align: center;
 	max-width: 1500px;
